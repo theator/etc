@@ -10,13 +10,13 @@ Barak Ariel, Yariv Colbeci, Judith Rapoport Ferman, Dotan Asselmann, Omri Bar.
 - Python >= 3.8 (development was done using 3.8.12)
 - PyTorch >= 1.12.1 (development was done using 1.12.1+cu113)
 
-##Models:
+## Models:
 See [`model.py`](./model.py) for code implementation of: 
 - ETC-LSTM
 - ETCouple
 - ETCFormer
 
-##Loss functions:
+## Loss functions:
 See [`losses.py`](./losses.py) for code implementation of:
 - MAE loss
 - Smooth L1 loss
